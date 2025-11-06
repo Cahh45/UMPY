@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UMPY • Sua Plataforma Inteligente de Infoprodutos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #0d0d0d;
+      color: #ffffff;
+    }
+    header {
+      background: #4b0082;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    p {
+      max-width: 640px;
+      margin: 1rem auto;
+      line-height: 1.6;
+      text-align: center;
+    }
+    .cta {
+      display: inline-block;
+      background: #ffffff;
+      color: #4b0082;
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      margin-top: 1.5rem;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    section {
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    .feature {
+      background: #1a1a1a;
+      margin: 1rem auto;
+      padding: 2rem;
+      max-width: 640px;
+      border-radius: 12px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #111111;
+      font-size: 0.9rem;
+      color: #aaaaaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>UMPY</h1>
+    <p>A plataforma inteligente que te ajuda a criar, vender e escalar seus infoprodutos com IA.</p>
+    <a class="cta" href="#comprar">Começar</a>
+  </header>
+
+  <section>
+    <h2>O que é a UMPY?</h2>
+    <p>A UMPY reúne ferramentas simples e poderosas para você lançar, hospedar e vender seus infoprodutos. Com inteligência artificial integrada, você monta funis de venda, estratégias e conteúdos em poucos cliques — sem precisar programar.</p>
+  </section>
+
+  <section>
+    <div class="feature">
+      <h3>Criação Guiada por IA</h3>
+      <p>Gere scripts, páginas, funis e posts automaticamente. É só dizer o que você quer vender.</p>
+    </div>
+    <div class="feature">
+      <h3>Entrega Fácil</h3>
+      <p>Envie seu produto digital automaticamente assim que o cliente paga.</p>
+    </div>
+    <div class="feature">
+      <h3>Checkout Simplificado</h3>
+      <p>Receba pagamentos via Pix e cartão através de links diretos.</p>
+    </div>
+  </section>
+
+  <section id="comprar">
+    <h2>Comece Agora</h2>
+    <p>Em poucos minutos você pode montar sua primeira oferta. Não precisa saber código.</p>
+    <a class="cta" href="#">Quero criar minha oferta</a>
+  </section>
+
+  <footer>
+    © 2025 UMPY — Plataforma Inteligente para Infoprodutos
+  </footer>
+</body>
+</html>
